@@ -1,4 +1,4 @@
-# OUTDATED - OUTDATED - DO NOT USE - SEE BELOW - spamgourmet-clone
+# DEPRECATED - DO NOT USE - SEE BELOW - spamgourmet-clone
 
 New home of this script is https://github.com/spamgourmet/spamgourmet-clone
 
